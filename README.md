@@ -1,6 +1,7 @@
-git branch dev
-git checkout dev
-git add index.html
-git commit -m "Add index.html'
-git merge dev
-git rebase main
+![gitupdate](https://github.com/user-attachments/assets/3c4de53d-f1ec-46ab-9bad-859d14ff3b7f)
+![gitcommit](https://github.com/user-attachments/assets/616d104b-73c3-44db-9004-9967f97bdb9f)
+![gitcheckoutmerge](https://github.com/user-attachments/assets/2b309ecc-35c8-4577-9fd0-82a8a2128caa)
+![gitinit](https://github.com/user-attachments/assets/1f9f59a2-758f-4073-8219-a7aeb372ba41)
+![gitremotegitpush](https://github.com/user-attachments/assets/0d51e202-9ed2-4356-a965-3ae2ca9de098)
+![Screenshot 2025-03-05 145756](https://github.com/user-attachments/assets/b49228fe-af4c-42df-8de8-bf3e7053c400)
+![Screenshot 2025-03-05 145619](https://github.com/user-attachments/assets/15a5dc4c-75b0-4b53-89d3-7b4a261d829a)
